@@ -8,3 +8,11 @@ r = 5
 circumf = 2*np.pi*r
 
 print(circumf)
+
+#Surface of a circle
+
+surf = np.pi*(r**2)
+
+print(surf)
+
+
